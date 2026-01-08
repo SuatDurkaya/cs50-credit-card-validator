@@ -12,3 +12,6 @@ and identifies the card type (AMEX, VISA, MASTERCARD).
 ## Example
 Card Number: 378282246310005  
 Output: AMEX
+
+⚠️ This solution is shared for educational purposes.
+If you are currently taking CS50, do not copy this code.
